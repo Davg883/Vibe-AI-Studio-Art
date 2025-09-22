@@ -1,0 +1,5 @@
+{
+  "name": "VibeAI Art Studio",
+  "description": "An intuitive art studio that turns simple ideas into stunning, professional-grade images. Act as an Art Director by providing a narrative, selecting an aspect ratio, and letting the AI handle the complex prompt engineering to create your masterpiece.",
+  "requestFramePermissions": []
+}
